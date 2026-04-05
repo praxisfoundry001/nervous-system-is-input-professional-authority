@@ -42,6 +42,6 @@ Professionals and educators who need a usable boundary under pressure, especiall
 Read the full document via the DOI link below.
 
 ## Citation
-DOI: (add after Zenodo upload)
+DOI: https://doi.org/10.5281/zenodo.19424256
 
 PDF available via DOI link.
